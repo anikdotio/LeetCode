@@ -216,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnikKapat/LeetCode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/AnikKapat/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnikKapat/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnikKapat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnikKapat/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
