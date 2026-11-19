@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnikKapat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AnikKapat/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnikKapat/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AnikKapat/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnikKapat/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AnikKapat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnikKapat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AnikKapat/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0125-valid-palindrome) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnikKapat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AnikKapat/LeetCode/tree/master/0226-invert-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnikKapat/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
